@@ -1,0 +1,19 @@
+h1 {
+    font-size: 15px;
+    font-family: georgia;            
+    text-align: center;
+    background-color: #3A6BFD;
+   }
+    h2 {
+    font-size: 20px;
+    color: #350C47 ;
+    text-align: center;
+    background-image: url(https://bogatyr.club/uploads/posts/2023-03/1678773288_bogatyr-club-p-obichnii-fon-foni-vkontakte-1.jpg);
+    background-size: 100%;
+    font-family: Gulim ;  
+    }
+    h3 {
+    font-size: 10px; 
+    text-align: center;
+    background-color: #06D65D;
+    }
